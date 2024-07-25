@@ -1,4 +1,4 @@
-# IoT door lock via smartphone
+# IoT Door Lock Via Smartphone
 Utilize an ESP8266 NodeMCU CP2102 and a MC38 magnetic door sensor to create a smart door lock system. Data is sent over Wi-Fi to the Blynk IoT cloud. Users can control and monitor the door's status (open/closed) via the Blynk mobile app or web interface.
 ## Approach
 * **Hardware selection**: We have chosen the necessary hardware components, including NodeMCU, 12VDC electromagnetic lock, single-channel relay module 3.3/5V, MC38 sensor, and a 12V battery for power supply.
